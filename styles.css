@@ -1,0 +1,12 @@
+:root {
+  --slidev-code-padding: 24px;
+}
+
+.slidev-code {
+  background: var(--shiki-dark-bg, inherit) !important;
+}
+
+.slidev-code-wrapper {
+  max-height: 420px;
+  overflow-y: scroll;
+}
