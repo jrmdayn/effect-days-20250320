@@ -32,14 +32,5 @@ src: ./pages/4.better.md
 src: ./pages/5.inatoform.md
 ---
 ---
-src: ./pages/6.fields.md
----
----
-src: ./pages/7.array.md
----
----
-src: ./pages/8.map.md
----
----
 src: ./pages/9.conclusion.md
 ---
