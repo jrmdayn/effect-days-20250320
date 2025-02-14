@@ -13,7 +13,7 @@ mdc: true
 # Reinventing HTML forms with Effect
 
 <!--
-Je vais vous présenter un nouveau moyen qu'on a imaginé chez Inato pour simplifier l'écriture de formulaire HTML
+I would like to talk to you about a new way to write HTML forms we have imagined at my company.
 -->
 
 ---
