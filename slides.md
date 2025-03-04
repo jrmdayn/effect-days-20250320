@@ -12,6 +12,12 @@ mdc: true
 
 # Reinventing HTML forms with Effect
 
+<style>
+  h1 {
+    margin-top: -70px
+  }
+</style>
+
 <!--
 I would like to talk to you about a new way to write HTML forms we have imagined at my company.
 -->
